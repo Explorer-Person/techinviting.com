@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Allow: /
+
+Sitemap: https://techinviting.com/sitemap.xml
+
